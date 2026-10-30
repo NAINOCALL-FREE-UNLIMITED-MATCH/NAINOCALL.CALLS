@@ -1,0 +1,11 @@
+{
+  "name": "ZyntriCall - Ultra-HD Real-Time Video Calling",
+  "description": "Production-grade real-time video conferencing service with WebRTC peer-to-peer streaming, low-latency signaling, virtual studio backgrounds, screen sharing, and interactive collaboration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
